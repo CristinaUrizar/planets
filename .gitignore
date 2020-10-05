@@ -1,2 +1,4 @@
-results/
-*.dat
+results/analysis
+results/images
+results/plots
+*.out
